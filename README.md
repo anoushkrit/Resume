@@ -19,7 +19,7 @@ Ghaziabad	Higher Secondary School (Council for the Indian School Certificate Exa
 * 	Selected twice for state level (NTSE)
 * 	Selected for RMO conducted by NISER in Class 10.
 ## ADDITIONAL SKILLS
-* 	Programming Languages (C, JAVA, MATLAB, Verilog (VHDL), Assembly C, Python)
+* 	Programming Languages (C, JAVA, MATLAB, Verilog, Assembly C, Python)
 * 	Wi-Fi Penetration Testing
 ## PROJECTS (CHRONOLOGICAL ORDER)
 ### RETRACEABLE PASSWORD GENERATOR (PASSIFY)							DECEMBER’16
